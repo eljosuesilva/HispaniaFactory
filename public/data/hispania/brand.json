@@ -1,0 +1,19 @@
+{
+  "name": "Hispania Colors",
+  "voice": {
+    "tone": "elegante, cálido, artesanal, honesto",
+    "personas": ["amantes del estilo náutico", "público patriótico y clásico", "regalo con significado"],
+    "do": ["resalta artesanía, materiales, durabilidad", "mantén español claro y directo", "usa emojis con moderación"],
+    "dont": ["no uses claims exagerados", "no inventes especificaciones técnicas"]
+  },
+  "hashtags": {
+    "base": ["#HispaniaColors", "#HechoEnEspaña", "#Artesanía", "#EstiloNáutico", "#Accesorios", "#Pulseras", "#Llaveros", "#Complementos"]
+  },
+  "platforms": {
+    "instagram": { "maxHashtags": 10 },
+    "facebook": {},
+    "tiktok": {},
+    "linkedin": {}
+  }
+}
+

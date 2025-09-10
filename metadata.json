@@ -1,0 +1,5 @@
+{
+  "name": "HispaniaFactory",
+  "description": "Aplicación de nodos para generar contenido de redes sociales de Hispania Colors a partir de su catálogo, usando Gemini (texto, imagen, video) y flujos visuales.",
+  "requestFramePermissions": []
+}
